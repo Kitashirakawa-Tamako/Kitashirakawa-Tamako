@@ -16,7 +16,7 @@
 
 
 ## My Skill Set  
-<table boder="0"><tr><td valign="top" width="33%">
+<table style="width: 100%"><tr><td valign="top" width="33%">
 
 
 
@@ -67,6 +67,9 @@
 <a href="https://github.com/Kitashirakawa-Tamako" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://twitter.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
@@ -74,7 +77,7 @@
 
 
 ## Github
-<table boder="0"><tr><td valign="top" width="50%">
+<table style="width: 100%"><tr><td valign="top" width="50%">
 
 
 
