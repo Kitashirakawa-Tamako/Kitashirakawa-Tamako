@@ -16,7 +16,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table boder="0"><tr><td valign="top" width="33%">
 
 
 
@@ -74,7 +74,7 @@
 
 
 ## Github
-<table><tr><td valign="top" width="50%">
+<table boder="0"><tr><td valign="top" width="50%">
 
 
 
