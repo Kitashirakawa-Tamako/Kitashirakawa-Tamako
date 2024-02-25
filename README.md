@@ -6,10 +6,10 @@
 ### <div align="center">😀 Hey! Nice to meet you.</div>  
 
 
-🌱 I'm Jiang Haoyu. A full stack developer from Harbin, China 🇨🇳 working remotely since 2021.  
+🌱 I'm Jiang Haoyu. A full stack developer from Harbin, China 🇨🇳, working since 2021.  
 
 
-⚡ [This is my website](http://jianghaoyu.world)  
+⚡ [This is my website.](http://jianghaoyu.world)  
 
 
 <br/>  
