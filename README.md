@@ -88,7 +88,7 @@
 
 
 ### Language
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitashirakawa-Tamako&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitashirakawa-Tamako&layout=compact&hide_border=true" align="center" /></div>  
 </td></tr></table>  
 
 
